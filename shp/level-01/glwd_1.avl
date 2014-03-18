@@ -1,0 +1,158 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	17
+	Class:	18
+	Class:	19
+	StdDevs:	1.00000000000000
+	NullSym:	20
+	NullValues:	24
+	StatValues:	25
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Type"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(TClr.7
+	Red:	0x2893
+	Green:	0x1f6d
+	Blue:	0x9500
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0xbdff
+	Green:	0xbd
+	Blue:	0x8a53
+)
+
+(TClr.11
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Name:	"Transparent"
+)
+
+(TClr.15
+	Name:	"Transparent"
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.17
+	IsText:	1
+	Label:	"Lake"
+	MinStr:	"Lake"
+	MaxStr:	"Lake"
+	Precision:	-3
+)
+
+(LClass.18
+	IsText:	1
+	Label:	"Reservoir"
+	MinStr:	"Reservoir"
+	MaxStr:	"Reservoir"
+	Precision:	-3
+)
+
+(LClass.19
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.20
+	Color:	21
+	Outline:	1
+	OutlineColor:	22
+	OutlineWidth:	0.10000000000000
+	BgColor:	23
+)
+
+(TClr.21
+	Name:	"Transparent"
+)
+
+(TClr.22
+	Name:	"Transparent"
+)
+
+(TClr.23
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.24
+)
+
+(NameDict.25
+)
+

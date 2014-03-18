@@ -1,0 +1,194 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	21
+	Class:	22
+	Class:	23
+	Class:	24
+	StdDevs:	1.00000000000000
+	NullSym:	25
+	NullValues:	29
+	StatValues:	30
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Type"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(TClr.7
+	Red:	0x2893
+	Green:	0x1f6d
+	Blue:	0x9500
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0xbdff
+	Green:	0xbd
+	Blue:	0x8a53
+)
+
+(TClr.11
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0x9292
+	Green:	0xaeae
+	Blue:	0x2f2f
+)
+
+(TClr.15
+	Red:	0x3c11
+	Green:	0x6900
+	Blue:	0x68
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.17
+	Color:	18
+	Outline:	1
+	OutlineColor:	19
+	OutlineWidth:	0.10000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Name:	"Transparent"
+)
+
+(TClr.19
+	Name:	"Transparent"
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.21
+	IsText:	1
+	Label:	"Lake"
+	MinStr:	"Lake"
+	MaxStr:	"Lake"
+	Precision:	-3
+)
+
+(LClass.22
+	IsText:	1
+	Label:	"Reservoir"
+	MinStr:	"Reservoir"
+	MaxStr:	"Reservoir"
+	Precision:	-3
+)
+
+(LClass.23
+	IsText:	1
+	Label:	"River"
+	MinStr:	"River"
+	MaxStr:	"River"
+	Precision:	-3
+)
+
+(LClass.24
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.25
+	Color:	26
+	Outline:	1
+	OutlineColor:	27
+	OutlineWidth:	0.10000000000000
+	BgColor:	28
+)
+
+(TClr.26
+	Name:	"Transparent"
+)
+
+(TClr.27
+	Name:	"Transparent"
+)
+
+(TClr.28
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.29
+)
+
+(NameDict.30
+)
+
