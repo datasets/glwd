@@ -23,10 +23,10 @@
     "geodata",
     "vector"
   ],
-  "licenses": {
+  "licenses": [{
     "type": "ODC-PDDL",
     "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-  },
+  }],
   "resources": [
     {
       "name": "Level 1 (GLWD-1) comprises the 3,067 largest lakes (area ≥ 50 km2) and 654 largest reservoirs (storage capacity ≥ 0.5 km3) worldwide, and includes extensive attribute data.",
