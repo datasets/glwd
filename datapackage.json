@@ -30,7 +30,7 @@
   "resources": [
     {
       "name": "Level 1 (GLWD-1) comprises the 3,067 largest lakes (area ≥ 50 km2) and 654 largest reservoirs (storage capacity ≥ 0.5 km3) worldwide, and includes extensive attribute data.",
-      "path": "level-01/json/glwd_1.geojson",
+      "path": "json/glwd_1.geojson",
       "format": "geojson",
       "mediatype": "application/json",
       "bytes": 28006
@@ -41,9 +41,7 @@
       "format": "topojson",
       "mediatype": "application/json",
       "bytes":   8923
-    }
-  ],
-  "resources": [
+    },
     {
       "name": "Level 2 (GLWD-2) comprises permanent open water bodies with a surface area ≥ 0.1 km2 excluding the water bodies contained in GLWD-1. Compressed because it exceeds GitHub's 100k file limit.",
       "path": "json/glwd_2.zip",
